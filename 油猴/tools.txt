@@ -1,2 +1,3 @@
 图片下载：https://greasyfork.org/zh-CN/scripts/24204-picviewer-ce
 图片分割：http://www.zuohaotu.com/cut-image.aspx
+去背景：https://www.jerrycoding.com/tool/online/picrmbg/
